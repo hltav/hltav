@@ -17,6 +17,8 @@
  <img align="center" alt="Postgre SQL" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
  <img align="center" alt="Sequelize" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg"/>
  <img align="center" alt="Corel Draw" height="60" width="80" src="https://github.com/hltav/MyIcons/blob/master/icons/Corel2021/Corellogo2.svg"/>
+ <img align="center" alt="Photoshop" height="60" width="80" src="https://github.com/hltav/MyIcons/blob/master/icons/Photoshop/Photoshoplogo2.svg"/>
+ 
   
     
     
