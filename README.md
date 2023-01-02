@@ -31,8 +31,8 @@
  
 <div> 
  
-  <a href = "mailto:hudsonlimatavares@gmail.com"><img src="https://github.com/hltav/MyIcons/blob/master/icons/Gmail/Gmail_icon_(2020).svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hltav/" target="_blank"><img src="https://github.com/hltav/MyIcons/blob/master/icons/Linkedin/LinkedIn_icon.svg" target="_blank"></a> 
+  <a href = "mailto:hudsonlimatavares@gmail.com"><img align="center" alt="Gmail" height="80" width="120" src="https://github.com/hltav/MyIcons/blob/master/icons/Gmail/Gmail_icon_(2020).svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hltav/" target="_blank"><img align="center" alt="LinkedIn" height="80" width="120" src="https://github.com/hltav/MyIcons/blob/master/icons/Linkedin/LinkedIn_icon.svg" target="_blank"></a> 
  
  
 
