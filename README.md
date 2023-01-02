@@ -9,6 +9,14 @@
 <div style="display: inline_block"><br>
  
  <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+ <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+ <img align="center" alt="Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+ <img align="center" alt="Node.js" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
+ <img align="center" alt="React.js" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+ <img align="center" alt="Mongo DB" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
+ <img align="center" alt="Postgre SQL" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
+ <img align="center" alt="Sequelize" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg"/>
+ <img align="center" alt="Corel Draw" height="60" width="80" src="https://github.com/hltav/MyIcons/blob/master/icons/Corel2021/Corellogo2.svg"/>
   
     
     
