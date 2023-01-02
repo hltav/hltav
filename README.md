@@ -16,7 +16,7 @@
   <img align="center" alt="Mongo DB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Postgre SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Sequelize" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
-   <img align="center" alt="Corel Draw" height="40" width="50" src="https://github.com/hltav/MyIcons/blob/master/icons/Corel2021/Corellogo.svg">
+   <img align="center" alt="Corel Draw" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/Corel2021/Corellogo2.svg">
  
  </div>
  
