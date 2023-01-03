@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Hudson Tavares 😁
+## Welcome to profile Hudson Tavares 😁
 
  <div style ="display: inline">
    <a href="https://github.com/hltav">
@@ -30,8 +30,7 @@
  
  <br>
  
-  ### Pra conhecer um pouco mais sobre mim, entre em contato nos perfis abaixo!
- 
+  ### To know more about me, contact me on the profiles below!
 <div> 
  
   <a href = "mailto:hudsonlimatavares@gmail.com"><img align="center" alt="Gmail" height="80" width="120" src="https://github.com/hltav/MyIcons/blob/master/icons/Gmail/Gmail_icon_(2020).svg" target="_blank"></a>
