@@ -2,8 +2,8 @@
 
  <div style ="display: inline">
    <a href="https://github.com/hltav">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hltav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hltav&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hltav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hltav&layout=compact&langs_count=6&theme=tokyonight"/>
     
 
 </div>
