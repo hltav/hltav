@@ -9,7 +9,7 @@
 </div>
 <div style="display: inline-block"><br>
  
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+ <h4><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> HTML</p>
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
  <img align="center" alt="Js" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/JavaScript/JavaScript.svg"/>
  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
