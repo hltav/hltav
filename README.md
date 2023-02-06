@@ -10,17 +10,17 @@
 <div style="display: inline-block"><br>
  
  <h4><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> <br> HTML</h4>
- <h4><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><br> CSS</h4>
- <h4><img align="center" alt="Js" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/JavaScript/JavaScript.svg"/><br> JavaScript</h4>
- <h4><img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/><br> CSS</h4>
- <h4><img align="center" alt="React.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/><br> CSS</h4>
- <h4><img align="center" alt="Mongo DB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/> <br> CSS</h4>
- <h4><img align="center" alt="Postgre SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/><br> CSS</h4>
- <h4><img align="center" alt="Sequelize" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg"/><br> CSS</h4>
- <h4><img align="center" alt="Git" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/Git/Giticon.svg"/><br> CSS</h4>
- <h4><img align="center" alt="GitHub" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/GitHub/Github.svg"/><br> CSS</h4>
- <h4><img align="center" alt="Corel Draw" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/Corel2021/Corellogo2.svg"/> <br> CSS</h4>
- <h4><img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/Photoshop/Photoshoplogo2.svg"/><br> CSS</h4>
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><br> CSS</h4>
+ <img align="center" alt="Js" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/JavaScript/JavaScript.svg"/><br> JavaScript</h4>
+ <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/><br> CSS</h4>
+ <img align="center" alt="React.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/><br> CSS</h4>
+ <img align="center" alt="Mongo DB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/> <br> CSS</h4>
+ <img align="center" alt="Postgre SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
+ <img align="center" alt="Sequelize" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg"/>
+ <img align="center" alt="Git" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/Git/Giticon.svg"/>
+ <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/GitHub/Github.svg"/>
+ <img align="center" alt="Corel Draw" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/Corel2021/Corellogo2.svg"/> 
+ <img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/Photoshop/Photoshoplogo2.svg"/>
     
     
 
