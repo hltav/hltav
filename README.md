@@ -9,7 +9,9 @@
 </div>
 <div style="display: inline-block"><br>
  
- <img align="center" alt="Js" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/JavaScript/JavaScript.svg"/>
+ <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+ <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+ <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/>
  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
  <img align="center" alt="React.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
