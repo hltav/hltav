@@ -17,6 +17,7 @@
  <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/>
  <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
  <img align="center" alt="Nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"/>
+ <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/>
  <img align="center" alt="Prisma ORM" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg"/>
  <img align="center" alt="Mongo DB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
  <img align="center" alt="Postgre SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
