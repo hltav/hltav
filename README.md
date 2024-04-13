@@ -19,9 +19,7 @@
  <img align="center" alt="Sequelize" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg"/>
  <img align="center" alt="Git" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/Git/Giticon.svg"/>
  <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/GitHub/Github.svg"/>
- <img align="center" alt="Corel Draw" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/Corel2021/Corellogo2.svg"/> 
- <img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/hltav/MyIcons/blob/master/icons/Photoshop/Photoshoplogo2.svg"/>
-    
+
     
 
  </div>
