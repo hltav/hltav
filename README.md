@@ -10,11 +10,14 @@
 <div style="display: inline-block"><br>
  
  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
- <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
- <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
- <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/>
- <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
- <img align="center" alt="React.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+ <img align="center" alt="TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+ <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+ <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+ <img align="center" alt="Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
+ <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/>
+ <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
+ <img align="center" alt="Nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"/>
+ <img align="center" alt="Prisma ORM" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg"/>
  <img align="center" alt="Mongo DB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
  <img align="center" alt="Postgre SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
  <img align="center" alt="Sequelize" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg"/>
